@@ -5,4 +5,4 @@ dependencies:
 
   # Require the installation of other skills before installing this skill
   skill:
-    - skill-iot-control
+    - https://github.com/MycroftAI/skill-iot-control
